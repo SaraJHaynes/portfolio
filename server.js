@@ -4,7 +4,7 @@ require('dotenv').config(); //require is a built in function that looks for info
 const express = require('express');
 const app = express();
 
-// app.listen(3000, () => console.log('I am alive')); //////what listen wants first is a port
+app.listen(3000, () => console.log('I am alive')); //////what listen wants first is a port
 
 const PORT = process.env.PORT || 3000;
 app.get('/ping', (request, response) => {
