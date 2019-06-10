@@ -15,6 +15,26 @@ Estimate of time needed to complete: 1 hour
 
 Actual time needed to complete: 1 hour
 
+### 1. Add Functionality
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 11:45
+
+Finish time: _____
+
+Actual time needed to complete: 1 hour
+
+## 2. Video
+
+Estimate of time needed to complete: 30 minutes
+
+Start time: 11:45
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
 
 Prerequisites
 None.
