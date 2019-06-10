@@ -75,7 +75,15 @@
 
 		header > p {
 			margin: 1em 0 0 0;
-		}
+        }
+        
+         #myVideo {
+            position: fixed;
+            right: 0;
+            bottom: 0;
+            width: 500px; 
+            /* height: 25; */
+          }
 
 	footer {
 		margin: 2em 0 0 0;
